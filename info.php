@@ -1,3 +1,3 @@
 <?php
-	echo "testkk";
+	echo "test";
 ?>
